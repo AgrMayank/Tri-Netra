@@ -10,7 +10,7 @@ Material:
   m_Name: Glass
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
-  m_LightmapFlags: 1
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -60,10 +60,10 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _GlossMapScale: 0.833
+    - _GlossMapScale: 0.605
     - _Glossiness: 0.69
     - _GlossyReflections: 1
-    - _Metallic: 0
+    - _Metallic: 0.447
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
@@ -73,5 +73,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.2988608, g: 0.5072917, b: 0.8679245, a: 1}
-    - _EmissionColor: {r: 0.078987196, g: 0.12686826, b: 0.23584908, a: 1}
+    - _Color: {r: 0.56078434, g: 0.6490243, b: 0.8666667, a: 1}
+    - _EmissionColor: {r: 0.115833044, g: 0.14103983, b: 0.1792453, a: 1}
