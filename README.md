@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Tri-Netra
+An Augmented Reality based information system for Trident Academy of Technology
 
-You can use the [editor on GitHub](https://github.com/AgrMayank/Tri-Netra/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <br>
+  <img src="Assets/Icons/TAT Building.png" alt="TAT Building">
+  <br>
+  <br>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Download Build
+- Download the latest release [here](https://github.com/AgrMayank/Tri-Netra/releases)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Quickstart
+- Download [Unity](https://unity3d.com/get-unity/download/archive) version 2018 or above.
+- Download Microsoft [Visual Studio Community](https://visualstudio.microsoft.com/).
+- Platform specific SDK such as Android build tools are also required.
 
-```markdown
-Syntax highlighted code block
+## How to Use?
+> To build the project you need to go to *Menu>Build Settings>your-os>Build And Run*
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AgrMayank/Tri-Netra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Don't forget to change the **Bundle Id** under the *Menu>Build Settings>your-os>Player Preferences*
