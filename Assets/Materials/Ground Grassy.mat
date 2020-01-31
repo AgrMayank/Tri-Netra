@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Ground Other
+  m_Name: Ground Grassy
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
   m_LightmapFlags: 1
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 640effe95b954cf4f99211e12ea0d145, type: 3}
+        m_Texture: {fileID: 2800000, guid: 883a7aad13da1864e85ba0741b784667, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -79,7 +79,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.8773585, g: 0.7754662, b: 0.6662958, a: 1}
+    - _Color: {r: 0.5188679, g: 0.4363053, b: 0.34999108, a: 1}
     - _Color1: {r: 1, g: 0.5, b: 0.5, a: 1}
     - _Color2: {r: 0.5, g: 0.5, b: 1, a: 1}
     - _EmissionColor: {r: 0.11176471, g: 0.05490196, b: 0.039215688, a: 1}
