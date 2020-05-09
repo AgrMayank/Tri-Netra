@@ -21,3 +21,7 @@ An Augmented Reality based information system for Trident Academy of Technology
 > To build the project you need to go to *Menu>Build Settings>your-os>Build And Run*
 
 > Don't forget to change the **Bundle Id** under the *Menu>Build Settings>your-os>Player Preferences*
+
+<hr>
+
+Made with ❤ by [AgrMayank](https://AgrMayank.GitHub.io)
